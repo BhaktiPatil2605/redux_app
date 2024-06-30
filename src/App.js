@@ -1,6 +1,7 @@
 import './App.css';
-import Navbar from './Navbar';
-import Shop from './Shop';
+import Navbar from './compnents/Navbar';
+import Shop from './compnents/Shop';
+
 
 function App() {
   return (
